@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+#kk{
+   border:5px solid white;
+   outline: 2px solid black;
+    color: white;
+}
+#kk:hover{
+    background-color: rgb(107, 3, 203);
+     color: white
+     ;
+ }
